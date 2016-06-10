@@ -1,2 +1,2 @@
-FROM jenkins:2.0-beta-1 
+FROM jenkins:2.3
 USER root
