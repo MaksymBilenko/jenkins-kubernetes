@@ -1,2 +1,2 @@
-FROM jenkins:2.3
+FROM jenkins:latest
 USER root
